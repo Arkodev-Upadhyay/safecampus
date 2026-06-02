@@ -1,24 +1,24 @@
 const AUTHORITIES = [
     {
-        id: 'A',
+        id: 'Adi',
         name: 'Security Officer A',
         lat: 12.9722,
         lon: 77.5950
     },
     {
-        id: 'B',
+        id: 'Arko',
         name: 'Security Officer B',
         lat: 12.9680,
         lon: 77.5920
     },
     {
-        id: 'C',
+        id: 'Srikar',
         name: 'Security Officer C',
         lat: 12.9755,
         lon: 77.5990
     },
     {
-        id: 'D',
+        id: 'Johnny',
         name: 'Security Officer D',
         lat: 12.9700,
         lon: 77.5900
